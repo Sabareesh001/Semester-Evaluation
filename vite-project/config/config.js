@@ -1,2 +1,2 @@
-const apiHost = 'http://localhost:3000'
+const apiHost = 'https://semester-evaluation-backend.onrender.com/'
 export default apiHost;

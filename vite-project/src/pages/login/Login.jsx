@@ -36,7 +36,7 @@ const Login = ({setLoading})=>{
             <div className='loginContainer'>
                     <h2>Welcome Back</h2>
                     <img className='loginImage' src={`
-                    https://img.freepik.com/free-vector/graduation-cap-diploma-with-seal-3d-icon-hat-with-tassel-paper-scroll-with-badge-3d-vector-illustration-white-background-education-graduation-success-concept_74855-26002.jpg?t=st=1739374231~exp=1739377831~hmac=8adbcef8a5bdba4d5180dc04fee75cba502904f02a6d6eb60c5fb55a9e983196&w=1060` />
+                    https://img.freepik.com/free-vector/graduation-cap-diploma-with-seal-3d-icon-hat-with-tassel-paper-scroll-with-badge-3d-vector-illustration-white-background-education-graduation-success-concept_74855-26002.jpg?t=st=1739374231~exp=1739377831~hmac=8adbcef8a5bdba4d5180dc04fee75cba502904f02a6d6eb60c5fb55a9e983196&w=1060`} />
                     <GoogleLogin  
                     type='standard'
                     theme='filled_blue'

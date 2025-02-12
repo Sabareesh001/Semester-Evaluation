@@ -13,7 +13,6 @@ import {
   NotificationAdd,
   Send,
 } from "@mui/icons-material";
-import { Label } from "recharts";
 import "./Dashboard.css";
 import axios from "axios";
 import Button from "../../components/button/Button";

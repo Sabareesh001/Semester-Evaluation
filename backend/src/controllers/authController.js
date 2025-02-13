@@ -50,8 +50,8 @@ exports.getRoles = async (req, res) => {
 exports.login = async (req, res) => {
   const { email } = req.body;
   const getUserDetailsQuery = `SELECT * FROM master_faculty WHERE email  = ?`;
-  try {
-    const [results] = await pool.query(getUserDetailsQuery, [email]);
+  // try {
+  //   const [results] = await pool.query(getUserDetailsQuery, [email]);
     let check = [
   {
     id: 126,
@@ -69,7 +69,7 @@ exports.login = async (req, res) => {
       expiresIn: "7 days",
     });
     res.json(token);
-  } catch (error) {
-    return res.status(500).json({ error: error.message });
-  }
+  // } catch (error) {
+  //   return res.status(500).json({ error: error.message });
+  // }
 };

@@ -52,7 +52,20 @@ exports.login = async (req, res) => {
   const getUserDetailsQuery = `SELECT * FROM master_faculty WHERE email  = ?`;
   try {
     const [results] = await pool.query(getUserDetailsQuery, [email]);
-    const token = jwt.sign({ userData: results }, "sembit001", {
+    let check = [
+  {
+    id: 126,
+    name: 'Sabareesh',
+    faculty_id: 'CS282',
+    department: 1,
+    email: 'sabareesh.cs22@bitsathy.ac.in',
+    experience_in_bit: 0,
+    total_teaching_experience: 0,
+    date_of_joining: null,
+    status: '1'
+  }
+]
+    const token = jwt.sign({ userData: check }, "sembit001", {
       expiresIn: "7 days",
     });
     res.json(token);

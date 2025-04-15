@@ -21,6 +21,11 @@
 ![image](https://github.com/user-attachments/assets/dd8d7d6c-7295-4112-b97a-7a47fc46c250)
 ### Data Center - to Manage Data
 ![image](https://github.com/user-attachments/assets/7d5e9672-4072-4175-8b5b-36a1fdc42583)
+![image](https://github.com/user-attachments/assets/2ac511ba-3a83-4b8a-85c2-2085f113deeb)
+
+### Foil Card Entry
+![image](https://github.com/user-attachments/assets/b5373bbc-dbc8-49af-aad1-ffccffc584b8)
+
 
 ### Allocation
 ![image](https://github.com/user-attachments/assets/a894db4f-bd46-4a1e-9436-c0bbc95b4d45)
@@ -29,6 +34,7 @@
 
 ### Upload Eligible Faculty
 ![image](https://github.com/user-attachments/assets/180cf949-54a8-4a27-a38d-784a6dae1453)
+
 
 
 

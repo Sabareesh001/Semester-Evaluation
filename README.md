@@ -26,14 +26,12 @@
 ### Foil Card Entry
 ![image](https://github.com/user-attachments/assets/b5373bbc-dbc8-49af-aad1-ffccffc584b8)
 
-
-### Allocation
-![image](https://github.com/user-attachments/assets/a894db4f-bd46-4a1e-9436-c0bbc95b4d45)
-### Faculty Approval
-![image](https://github.com/user-attachments/assets/87921b49-484e-49da-ae81-62160d0258ef)
-
-### Upload Eligible Faculty
-![image](https://github.com/user-attachments/assets/180cf949-54a8-4a27-a38d-784a6dae1453)
+## Roles
+<ol>
+  <li>COE - Chief of Examination</li>
+  <li>HOD - Head of Department</li>
+  <li>Faculty</li>
+</ol>
 
 
 
